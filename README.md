@@ -21,8 +21,8 @@ Sistema de monitoramento climático para a horta da SETREM que coleta dados ambi
 
 - **Hardware**: Sensores DHT22, BMP280, Sensor de Umidade do Solo
 - **Comunicação**: LoRa (Long Range)
-- **Backend**: Gateway com ESP32/Arduino
-- **Banco de Dados**: PostgreSQL/MySQL no LARCC
+- **Backend**: Gateway com ESP LoRa 32 Heltec v2 e um Raspberry Pi Zero 2 W
+- **Banco de Dados**: InfluxDB no LARCC
 - **Frontend**: HTML, CSS, JavaScript
 
 ## 📊 Dados Monitorados
